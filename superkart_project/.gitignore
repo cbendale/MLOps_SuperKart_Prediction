@@ -1,0 +1,12 @@
+# --- MLflow ---
+superkart_project/mlruns/
+**/mlruns/
+
+# --- (optional) common noise ---
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+*.joblib
+*.pkl
+.DS_Store
